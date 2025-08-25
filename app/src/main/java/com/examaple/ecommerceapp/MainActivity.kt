@@ -16,6 +16,6 @@ class MainActivity : ComponentActivity() {
                 val navController = rememberNavController()
                 AppNavHost(navController)
             }
+            }
         }
     }
-}
